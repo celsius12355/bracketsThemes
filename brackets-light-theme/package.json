@@ -1,0 +1,14 @@
+{
+    "name": "brackets-light-theme",
+    "title": "Brackets Light Theme",
+    "description": "Nicely colored Brackets Theme with a lot of contrast. Brackets 1.12 ready",
+    "version": "1.0.1",
+    "author": "niels.aupperlee@gmail.com",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
