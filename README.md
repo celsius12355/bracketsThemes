@@ -5,7 +5,7 @@ Hi hello
 This repository has all the Brackets themes I've made. Open source. Feel free to download for personal use.
 
 
-----HOWTO-----
+HOW-TO
    a. unzip the folder
    b. open Brackets
    c. navigate to "help" bar
